@@ -2,7 +2,7 @@
 
 ### Leírás
 
-Ez a Python script egy .pcap fájlban található hálózati forgalmat elemez, és összesíti a legfontosabb információkat:
+Ez a Python script egy .pcap (Packet CAPture = PCAP) fájlban található hálózati forgalmat elemez, és összesíti a legfontosabb információkat:
 
  - forrás IP-címek és azok gyakorisága
 
