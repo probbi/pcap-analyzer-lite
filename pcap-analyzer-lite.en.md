@@ -45,22 +45,7 @@ Port 49199 (Ismeretlen): 616 csomag
 Port 443 (HTTPS): 540 csomag
 Port 49223 (Ismeretlen): 163 csomag
 ```
-
-Requirements:
-
- - Python 3.x.
- - Scapy (pip install scapy)
- - Pyapy 3.xapy (pip install geoip2)
- - GeoLite2 City database (MaxMind)
-
-What can you learn with this project?
-
- - Basic network protocol management in Python (IP, TCP, UDP, ICMP);
- - processing .pcap files with Scapy;
- - create simple statistics with Python Counter class;
- - IP address geolocation with MaxMind database;
- - Python scripting practice, error handling and output formatting.
-    
+   
 ### Requirements:
 
  - Python 3.x
