@@ -16,3 +16,8 @@ https://dev.maxmind.com/geoip/geolite2-free-geolocation-data/
 ### A .pcap mintafájl forrása:
 
 https://www.malware-traffic-analysis.net/
+
+---
+
+> [!NOTE]
+> A szerző most bontogatja szárnyait és barátkozik a szkriptírással és a Phythonnal.
