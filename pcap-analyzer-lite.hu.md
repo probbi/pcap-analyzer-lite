@@ -53,7 +53,7 @@ Port 49223 (Ismeretlen): 163 csomag
  - geoip2 (pip install geoip2)
  - GeoLite2 City adatbázis (MaxMind)
 
-### Mit tanulhatsz ezzel a projekttel?
+### Mit tanulhatok ezzel a projekttel?
 
  - alapvető hálózati protokollok kezelése Pythonban (IP, TCP, UDP, ICMP);
  - .pcap fájlok feldolgozása Scapy-vel;
