@@ -15,3 +15,6 @@ https://dev.maxmind.com/geoip/geolite2-free-geolocation-data/
 ### Source of the sample .pcap file
 
 https://www.malware-traffic-analysis.net/
+
+> [!NOTE]
+> The author is now spreading his wings and making friends with scriptwriting and Phython.
