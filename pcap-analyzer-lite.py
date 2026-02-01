@@ -90,18 +90,18 @@ for pkt in packets:
 geo_reader.close()
             
 # Top forrás IP-k és geolokációk
-print("📊 Top forrás IP-k és helyük:")
+print("\n Top forrás IP-k és helyük:")
 for ip, count in ip_counter.most_common(5):
     location = ip_locations.get(ip, "N/A")
     print(f"{ip} ({location}): {count} csomag")
 
 # Protokoll eloszlás kiírása
-print("\n📦 Protokoll eloszlás:")
+print("\n Protokoll eloszlás:")
 for proto_num, count in proto_counter.items():
     proto_name = proto_names.get(proto_num, f"UNKNOWN({proto_num})")
     print(f"{proto_name}: {count} csomag")
 
-print("\n🔢 Leggyakoribb TCP/UDP célportok és alkalmazásréteg protokollok:")
+print("\n Leggyakoribb TCP/UDP célportok és alkalmazásréteg protokollok:")
 for port, count in port_counter.most_common(10):
     proto_name = app_proto_names.get(port, "Ismeretlen")
     print(f"Port {port} ({proto_name}): {count} csomag")
